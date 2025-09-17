@@ -141,8 +141,3 @@
         > type: Custom TCP > Port range: 5080 > 0.0.0.0/0 > Save rules
 33. Now paste the public ip address on the address bar +:5080 and your app will be launched.
 34. You can also do model training on /training routegit 
-
-
-omalbhare
-Vehical_Insurance3964
-mongodb+srv://omalbhare:<db_password>@cluster0.mhwocgz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
